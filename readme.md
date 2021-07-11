@@ -1,5 +1,7 @@
 # Three.js Journey
 
+I literally only made this repo so I could have a netlify build.
+
 ## Setup
 Download [Node.js](https://nodejs.org/en/download/).
 Run this followed commands:
